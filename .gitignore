@@ -30,3 +30,22 @@
 *.exe
 *.out
 *.app
+
+# Visual Studio stuff
+*.sln
+*.vcxproj
+*.vcxproj.filters
+Debug
+Win32
+server.dir
+.vs
+
+# CMake stuff
+server_config.hpp
+CMakeCache.txt
+CMakeFiles
+cmake
+*.cmake
+
+# GNU make
+Makefile
